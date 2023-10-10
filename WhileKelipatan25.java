@@ -12,8 +12,8 @@ public static void main(String[] args) {
             counter++;
         }
         System.out.printf("Banyaknya bilangan %d dari 1 sampai 50 adalah %d\n", kelipatan, counter);
+        i++;
         System.out.printf("Total bilangan kelipatan %d dari 1 sampai 50 adalah %d\n", kelipatan, total);
     }
-    i++;
 }
 }
